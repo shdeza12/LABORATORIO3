@@ -38,7 +38,7 @@ Configurar un switch básico (24/48 puertos) existente en la Universidad Santo T
 
 ### Diagrama de conexión
 
-![Diagrama Switch](cb07c7d0-71c2-41c7-8053-d50dff1bd200.png)
+![Diagrama Switch](images/cb07c7d0-71c2-41c7-8053-d50dff1bd200.png)
 
 ---
 
@@ -66,10 +66,10 @@ Cada cliente puede enviar los siguientes comandos:
 Permitir el control del LED desde cualquier nodo, garantizando que todos mantengan el mismo estado.
 
 **Evidencia de funcionamiento - Servidor:**  
-![Servidor Estrella](IMG-20251020-WA0016.jpg)
+![Servidor Estrella](images/IMG-20251020-WA0016.jpg)
 
 **Evidencia de funcionamiento - Cliente:**  
-![Cliente Estrella](IMG-20251020-WA0020.jpg)
+![Cliente Estrella](images/IMG-20251020-WA0020.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ Se utiliza comunicación cliente-servidor encadenada.
 Transmitir la información de los nodos hoja (por ejemplo, datos de sensores) hacia un nodo central.
 
 **Evidencia de datos de sensores:**  
-![Datos Sensores Árbol](IMG-20251020-WA0023.jpg)
+![Datos Sensores Árbol](images/IMG-20251020-WA0023.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ Un nodo (PC3) tiene conectado un Arduino para realizar pruebas de control.
 Simular una red tolerante a fallos en la que los nodos puedan seguir comunicándose incluso si uno de los enlaces falla.
 
 **Evidencia de monitoreo de sensores:**  
-![Sensores Malla](IMG-20251020-WA0026.jpg)
+![Sensores Malla](images/IMG-20251020-WA0026.jpg)
 
 ---
 
@@ -120,7 +120,7 @@ El nodo PC3 controla un Arduino, y solo puede hacerlo cuando tiene el token.
 Simular el control de acceso al medio mediante token passing y la comunicación secuencial entre nodos.
 
 **Evidencia de servidor en ejecución:**  
-![Servidor Anillo](IMG-20251020-WA0019.jpg)
+![Servidor Anillo](images/IMG-20251020-WA0019.jpg)
 
 ---
 
@@ -147,7 +147,7 @@ Simular el control de acceso al medio mediante token passing y la comunicación 
    - Se simularon caídas de nodos y la red siguió operativa.
 
 **Evidencia de control de LED:**  
-![Control LED](IMG-20251020-WA0021.jpg)
+![Control LED](images/IMG-20251020-WA0021.jpg)
 
 ---
 
