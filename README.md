@@ -151,7 +151,35 @@ Simular el control de acceso al medio mediante token passing y la comunicación 
 
 ---
 
-## Punto 3: Integración en GitHub
 
-El repositorio **Laboratorio 3** contiene la siguiente estructura:
+Cada script incluye comentarios explicativos y está organizado por funciones y clases.  
+Este documento describe el desarrollo completo del laboratorio.
+
+---
+
+## Conclusiones
+
+- Se comprendió la estructura interna y configuración básica de un switch.  
+- Se analizaron las principales topologías de red y su comportamiento.  
+- Se logró la integración de Raspberry Pi y Arduino en un entorno de red local.  
+- Se aplicaron conceptos de comunicación, token, enrutamiento y tolerancia a fallos.  
+
+---
+
+## Diagramas de topologías
+
+### Estrella, Árbol, Anillo y Malla
+
+![Diagramas de topologías](images/5ab6e957-1063-4a7d-a8d6-7a4996d374c1.png)
+
+---
+
+## Autores
+
+**Santiago Hernández Ávila**  
+**Diego Alejandro Rodriguez Guzmán**  
+**Camila Perez Mercado**  
+Facultad de Ingeniería Electrónica  
+Universidad Santo Tomás  
+2025
 
